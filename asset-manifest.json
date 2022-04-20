@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kleotos/listrendering.git/static/css/main.7e72c434.css",
+    "main.js": "/kleotos/listrendering.git/static/js/main.fd3d9617.js",
+    "static/js/787.eb73ffa8.chunk.js": "/kleotos/listrendering.git/static/js/787.eb73ffa8.chunk.js",
+    "index.html": "/kleotos/listrendering.git/index.html",
+    "main.7e72c434.css.map": "/kleotos/listrendering.git/static/css/main.7e72c434.css.map",
+    "main.fd3d9617.js.map": "/kleotos/listrendering.git/static/js/main.fd3d9617.js.map",
+    "787.eb73ffa8.chunk.js.map": "/kleotos/listrendering.git/static/js/787.eb73ffa8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e72c434.css",
+    "static/js/main.fd3d9617.js"
+  ]
+}
